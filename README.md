@@ -14,7 +14,7 @@ Made with ❤️
 #### Installation and Using N00BxPR0
 ```bash
 apt install python git
-git clone https://github.com/captainjohnexe/NxP
+git clone https://github.com/captainjohnexe/NxP.git
 cd NxP
 python N00BxPR0.py
 ```
