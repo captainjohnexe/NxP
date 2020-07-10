@@ -12,7 +12,7 @@ N00BxPR0_banner = """
  | |\  | |_| | |_| | |_) |>  <| |    | | \ \| |_| |
  |_| \_|\___/ \___/|____//_/\_\_|    |_|  \_\\___/ 
                                                 
-v1.0, Author: NxPohn
+v1.0, Author: CJohn
  ×=========================================×
  ×         Developer - Captain John        ×
  ×      Instagram - @beta.programmer       ×
