@@ -4,25 +4,15 @@ import os, sys, time
 import urllib.request
 from subprocess import check_output as inputstream
 
-# colours
-RED   = "\033[1;31m"
-BLUE  = "\033[1;34m"
-CYAN  = "\033[1;36m"
-GREEN = "\033[0;32m"
-RESET = "\033[0;0m"
-BOLD    = "\033[;1m"
-REVERSE = "\033[;7m"
-
-print (RED+"""
+N00BxPR0_banner = """
 
 o   o  o-o   o-o  o--o      o--o  o--o   o-o  
 |\  | o  /o o  /o |   |     |   | |   | o  /o 
 | \ | | / | | / | O--o  \ / O--o  O-Oo  | / | 
 |  \| o/  o o/  o |   |  o  |     |  \  o/  o 
 o   o  o-o   o-o  o--o  / \ o     o   o  o-o  
-""" + GREEN+ """                                                                                                                        
+                                                                                                                        
 v1.0, Author: CJohn
-""" + CYAN+ """
  ×=========================================×
  ×         Developer - Captain John        ×
  ×      Instagram - @beta.programmer       ×
@@ -1529,4 +1519,11 @@ def sqlc():
 	print('###### Usage: sqlc db_file sql_script')
 	backtomenu_option()
 
-
+# colours
+RED   = "\033[1;31m"
+BLUE  = "\033[1;34m"
+CYAN  = "\033[1;36m"
+GREEN = "\033[0;32m"
+RESET = "\033[0;0m"
+BOLD    = "\033[;1m"
+REVERSE = "\033[;7m"
