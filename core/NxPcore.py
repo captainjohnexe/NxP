@@ -5,14 +5,13 @@ import urllib.request
 from subprocess import check_output as inputstream
 
 N00BxPR0_banner = """
-  _   _  ___   ___  ____       _____  _____   ___  
- | \ | |/ _ \ / _ \|  _ \     |  __ \|  __ \ / _ \ 
- |  \| | | | | | | | |_) |_  _| |__) | |__) | | | |
- | . ` | | | | | | |  _ <\ \/ /  ___/|  _  /| | | |
- | |\  | |_| | |_| | |_) |>  <| |    | | \ \| |_| |
- |_| \_|\___/ \___/|____//_/\_\_|    |_|  \_\\___/ 
 
-                                                
+o   o  o-o   o-o  o--o      o--o  o--o   o-o  
+|\  | o  /o o  /o |   |     |   | |   | o  /o 
+| \ | | / | | / | O--o  \ / O--o  O-Oo  | / | 
+|  \| o/  o o/  o |   |  o  |     |  \  o/  o 
+o   o  o-o   o-o  o--o  / \ o     o   o  o-o  
+                                                                                                                        
 v1.0, Author: CJohn
  ×=========================================×
  ×         Developer - Captain John        ×
