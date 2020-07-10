@@ -12,10 +12,16 @@ Made with ❤️
 • Python 3.x
 
 #### Installation and Using N00BxPR0
-```bash
+```
 apt install python git
+```
+```
 git clone https://github.com/captainjohnexe/NxP.git
+```
+```
 cd NxP
+```
+```
 python N00BxPR0.py
 ```
 
@@ -23,5 +29,5 @@ python N00BxPR0.py
 Instagram: 
 https://instagram.com/beta.programmer
   
-Telegram : 
+Telegram :
 https://t.me/John_Captain
