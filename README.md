@@ -13,7 +13,10 @@ Made with ❤️
 
 #### Installation and Using N00BxPR0
 ```
-apt install python git
+apt install python
+```
+```
+apt install git
 ```
 ```
 git clone https://github.com/captainjohnexe/NxP.git
