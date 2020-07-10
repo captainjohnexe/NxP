@@ -20,5 +20,8 @@ python N00BxPR0.py
 ```
 
 ### Contact Me
-Instagram: @beta.programmer  
-Telegram : @John_Captain
+Instagram: 
+https://instagram.com/beta.programmer
+  
+Telegram : 
+https://t.me/John_Captain
