@@ -4,23 +4,26 @@ import os, sys, time
 import urllib.request
 from subprocess import check_output as inputstream
 
-banner() {
-clear
-printf " \e[33;1m o   o  o-o   o-o  o--o      o--o  o--o   o-o    \e[0m\n"
-printf " \e[33;1m |\  | o  /o o  /o |   |     |   | |   | o  /o    \e[0m\n"
-printf " \e[33;1m | \ | | / | | / | O--o  \ / O--o  O-Oo  | / |     \e[0m\n"
-printf " \e[33;1m |  \| o/  o o/  o |   |  o  |     |  \  o/  o      \e[0m\n"
-printf " \e[33;1m o   o  o-o   o-o  o--o  / \ o     o   o  o-o        \e[0m\n"
-printf " \n"
-printf " \e[1;92m v1.0, Author: CJohn                                   \e[0m\n"
-printf " \n"
-printf " \e[1;31m ×=========================================×             \e[0m\n"
-printf " \e[1;31m ×         Developer - Captain John        ×              \e[0m\n"
-printf " \e[1;31m ×      Instagram - @beta.programmer       ×               \e[0m\n"
-printf " \e[1;31m ×         Telegram - @John_Captain        ×                \e[0m\n"
-printf " \e[1;31m ×=========================================×                 \e[0m\n"
-printf " \n"
-}
+N00BxPR0_banner = """
+
+o   o  o-o   o-o  o--o      o--o  o--o   o-o  
+|\  | o  /o o  /o |   |     |   | |   | o  /o 
+| \ | | / | | / | O--o  \ / O--o  O-Oo  | / | 
+|  \| o/  o o/  o |   |  o  |     |  \  o/  o 
+o   o  o-o   o-o  o--o  / \ o     o   o  o-o  
+                                                                                                                        
+v1.0, Author: CJohn
+ ×=========================================×
+ ×         Developer - Captain John        ×
+ ×      Instagram - @beta.programmer       ×
+ ×         Telegram - @John_Captain        ×
+ ×=========================================×
+ 
+"""
+backtomenu_banner = """
+  [99] Back to main menu
+  [00] Exit the N00BxPR0
+"""
 backtomenu_banner = """
   [99] Back to main menu
   [00] Exit the N00BxPR0
